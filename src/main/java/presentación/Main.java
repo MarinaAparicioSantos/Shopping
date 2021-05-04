@@ -1,4 +1,4 @@
-package clases;
+package presentación;
 
 public class Main {
 
